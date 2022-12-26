@@ -1,0 +1,16 @@
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\bin\Debug\lab1_var18_part3.exe.config
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\bin\Debug\lab1_var18_part3.exe
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\bin\Debug\lab1_var18_part3.pdb
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.csproj.AssemblyReference.cache
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.csproj.SuggestedBindingRedirects.cache
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.csproj.CoreCompileInputs.cache
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.exe
+J:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.pdb
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\bin\Debug\lab1_var18_part3.exe.config
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\bin\Debug\lab1_var18_part3.exe
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\bin\Debug\lab1_var18_part3.pdb
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.csproj.AssemblyReference.cache
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.csproj.SuggestedBindingRedirects.cache
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.csproj.CoreCompileInputs.cache
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.exe
+D:\учеба\c#\lab1_var18_part3\lab1_var18_part3\obj\Debug\lab1_var18_part3.pdb
